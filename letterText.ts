@@ -1,0 +1,1 @@
+export const letterText = "write your text here!!!";
